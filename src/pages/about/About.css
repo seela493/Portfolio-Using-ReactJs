@@ -1,0 +1,75 @@
+.about-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    margin: auto 0;
+    width: 100%;
+    padding: 4rem 2rem;
+    background-size: cover;
+}
+
+.about-banner h1{
+    width: 600px;
+    text-align: center;
+    font-family: sans-serif Gotu;
+    font-weight: 400;
+    color: #dadada;
+}
+
+.profile-img img{
+    width: 388px;
+    height: 395px;
+}
+
+.about-fullcontain{
+  display: flex;
+  gap:80px;
+
+}
+.about-container span{
+  padding: 30px;
+  color: #8d8c8c;
+}
+
+
+.about-content{
+  width: 700px;
+  color: rgb(208, 207, 207);
+  margin-top: 10px;
+  line-height: 1.5;
+  font-size: medium;
+  font-weight: 490;
+  height: 300px;
+  border: 1px solid #9d00ff;
+  border-radius: 25px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: auto;
+}
+
+.about-content {
+  scroll-behavior: smooth;
+}
+
+.about-content::-webkit-scrollbar-track{
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.about-content {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.about-content::-webkit-scrollbar {
+  display: none;
+}
+
+
+.about-skill{
+    margin-top: 45px;
+    text-align: center;
+    width: 1200px;
+    
+}
