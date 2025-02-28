@@ -10,17 +10,9 @@ const certificates = [
     image: "/images/diploma.jpg",
   },
   {
-    image: "/images/website.png",
-    alt: "Certificate 3",
+    image: "/images/VojanExpress.jpeg",
   },
-  {
-    image: "/images/website.png",
-    alt: "Certificate 4",
-  },
-  {
-    image: "/images/website.png",
-    alt: "Certificate 5",
-  },
+  
 ];
 
 const Certificates = () => {

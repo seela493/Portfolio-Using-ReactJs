@@ -16,7 +16,10 @@ const About = () => {
             innovative solutions and delivering seamless user experiences.
           </h1>
           <div className="profile-img">
-            <img src="./images/shila.png" alt="shilaProfile" />
+          <img
+                src="/images/shila.jpeg"
+                alt="profilePIC"
+              />
           </div>
         </div>
         <div className="about-container">

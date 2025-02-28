@@ -126,8 +126,8 @@ const Home = () => {
             </div>
             <div className="profile-image">
               <img
-                src="/images/shila.png"
-                style={{ width: "388px", height: "395px", marginLeft: "147px" }}
+                src="/images/shila.jpeg"
+
                 alt="profilePIC"
               />
             </div>

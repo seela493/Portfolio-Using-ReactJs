@@ -195,7 +195,15 @@ a{
     border: 2px solid;
     border-color: #7b8cdb;
     background: none;
+}
 
+.profile-image img{
+  width: 400px; /* Adjust as needed */
+  height: 400px; /* Make sure width and height are the same */
+  object-fit: cover;
+  object-position: top;
+  border-radius: 50%;
+  margin-left: 90px;
 }
 
 /* //////////////////////////////////////////////// */
